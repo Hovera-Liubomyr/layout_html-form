@@ -1,10 +1,12 @@
 /* styles go here */
-fieldset {
-    position: relative;
-    margin: 10px 0px;
+.field {
+  display:block;
+  position: relative;
+  margin-top: 20px;
 }
 
-input {
-   position: relative;
-   margin: 5px 0px;
-   }
+.form-field {
+  display: block;
+  position: relative;
+  margin-top: 10px;
+}
