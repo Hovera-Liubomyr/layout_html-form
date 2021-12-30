@@ -1,12 +1,12 @@
 /* styles go here */
 .field {
-  display:block;
+  display: block;
   position: relative;
   margin-top: 20px;
 }
 
 .form-field {
-  display: block;
+  display: inline-block;
   position: relative;
   margin-top: 10px;
 }
